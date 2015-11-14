@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BackEndFireBase</string>
+    <string name="logoid">logo</string>
+    <string name="olbtons">ok a firebase</string>
+    <string name="okbotonos">addlogo</string>
+    <string name="btnfirebase">A Firebase</string>
+</resources>
